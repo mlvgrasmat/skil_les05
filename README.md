@@ -2,8 +2,6 @@
 
 Een eenvoudig basisrecept voor ongeveer **8 pannenkoeken**.
 
-![Een dunne pannenkoek met stroop op een bord](pannenkoek.jpeg)
-
 ## BENODIGDHEDEN
 
 - 300 gram tarwebloem
@@ -24,5 +22,3 @@ Een eenvoudig basisrecept voor ongeveer **8 pannenkoeken**.
 
 [Bron van het recept: Allerhande - pannenkoeken basisrecept](https://www.ah.nl/allerhande/recept/R-R1189426/pannenkoeken-basisrecept).
 De bereidingsstappen zijn in eigen woorden beschreven.
-
-*Foto: [FotoosvanRobin - Pannenkoek met stroop](https://commons.wikimedia.org/wiki/File:Pannenkoek_met_stroop.jpeg), gebruikt onder [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/). De foto is ongewijzigd.*
